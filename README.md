@@ -109,13 +109,6 @@ We've got a plurality of sensor systems watching the planet right now. Satellite
 
 ---
 
-<div align="center">
-
-[![YouTube video about the God's Eye View open source release](https://img.youtube.com/vi/GRJaKcXZS94/maxresdefault.jpg)](https://www.youtube.com/watch?v=GRJaKcXZS94)
-
-▶️ **[The full walkthrough of everything below, on YouTube](https://www.youtube.com/watch?v=GRJaKcXZS94)**
-
-</div>
 
 ## ⚡ Quick Start
 
