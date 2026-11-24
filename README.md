@@ -496,26 +496,6 @@ Share links carry the provider switches and filters (`0.m.0` Mapillary off, `0.m
 
 </details>
 
-## 🎬 Reconstructions and the Series
-
-This started as a mad science experiment that suddenly blew up. Next thing you know, Iran happened. Bilawal reconstructed it in 4D. The questions we kept getting: when can I use this thing, and can I bring my own data to the party?
-
-<table>
-<tr>
-<td width="33%" valign="top"><a href="https://www.youtube.com/watch?v=o_FJ1NIH9yw"><img src="https://img.youtube.com/vi/o_FJ1NIH9yw/mqdefault.jpg" alt="God's Eye View Blew Up. Here's What You Can Do With It." width="100%"></a><br><a href="https://www.youtube.com/watch?v=o_FJ1NIH9yw"><b>God's Eye View Blew Up. Here's What You Can Do With It.</b></a><br><sub>3.1M views on YouTube</sub></td>
-<td width="33%" valign="top"><a href="https://www.youtube.com/watch?v=0p8o7AeHDzg"><img src="https://img.youtube.com/vi/0p8o7AeHDzg/mqdefault.jpg" alt="I Built God's Eye View to Monitor Iran in 4D" width="100%"></a><br><a href="https://www.youtube.com/watch?v=0p8o7AeHDzg"><b>I Built God's Eye View to Monitor Iran in 4D</b></a><br><sub>1.9M views on YouTube</sub></td>
-<td width="33%" valign="top"><a href="https://www.youtube.com/watch?v=GRJaKcXZS94"><img src="https://img.youtube.com/vi/GRJaKcXZS94/mqdefault.jpg" alt="We Got Open Source God's Eye Before GTA 6" width="100%"></a><br><a href="https://www.youtube.com/watch?v=GRJaKcXZS94"><b>We Got Open Source God's Eye Before GTA 6</b></a><br><sub>1.2M views on YouTube</sub></td>
-</tr>
-<tr>
-<td width="33%" valign="top"><a href="https://www.youtube.com/watch?v=pMZR4HmziyA"><img src="https://img.youtube.com/vi/pMZR4HmziyA/mqdefault.jpg" alt="Florida Learjet Crash - Final 78 Seconds Reconstructed in God's Eye View" width="100%"></a><br><a href="https://www.youtube.com/watch?v=pMZR4HmziyA"><b>Florida Learjet Crash - Final 78 Seconds Reconstructed in God's Eye View</b></a><br><sub>3.5M views on YouTube</sub></td>
-<td width="33%" valign="top"><a href="https://www.youtube.com/watch?v=ccZzOGnT4Cg"><img src="https://img.youtube.com/vi/ccZzOGnT4Cg/mqdefault.jpg" alt="God's Eye View Reveals Iran's Chokehold on the Global Economy" width="100%"></a><br><a href="https://www.youtube.com/watch?v=ccZzOGnT4Cg"><b>God's Eye View Reveals Iran's Chokehold on the Global Economy</b></a><br><sub>700K views on YouTube</sub></td>
-<td width="33%" valign="top"><a href="https://www.youtube.com/watch?v=g3toZwkrQQE"><img src="https://img.youtube.com/vi/g3toZwkrQQE/mqdefault.jpg" alt="God's Eye View Just Got a Massive Upgrade (Thanks To You!)" width="100%"></a><br><a href="https://www.youtube.com/watch?v=g3toZwkrQQE"><b>God's Eye View Just Got a Massive Upgrade (Thanks To You!)</b></a><br><sub>502K views on YouTube</sub></td>
-</tr>
-</table>
-
-More reconstructions, interviews and press: [godseyeview.ai/press](https://godseyeview.ai/press/) · [the full series on YouTube](https://youtube.com/playlist?list=PL6qSg2I-7_koPbDnSMo0QeeHX_RknA2uv&si=nBGYMoHWQw41v93Q)
-
----
 
 ## 🔧 Under the Hood
 
